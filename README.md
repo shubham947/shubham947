@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm Shubham Kumar</h1>
+<h3 align="left">A passionate Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham947&label=Profile%20views&color=0e75b6&style=flat" alt="shubham947" /> </p>
 
 - 🔭 I’m currently working on [Angular Player](https://github.com/shubham947/Angular-Player)
 
@@ -83,6 +82,7 @@
             width="40" height="40" /> </a> </p>
 
 <h3 align="left">Stats:</h3>
+
 <p align="center">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham947&show_icons=true&locale=en&layout=compact&theme=radical"
@@ -96,3 +96,5 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham947&theme=radical" alt="shubham947" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubham947&label=Profile%20views&color=0e75b6&style=flat" alt="shubham947" /> </p>

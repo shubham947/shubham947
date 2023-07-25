@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Fullstack Developer from India</h3>
 
 
-- 🔭 I’m currently working on [Angular Player](https://github.com/shubham947/Angular-Player)
+- 🔭 I’m currently working on [Angular Player](https://github.com/shubham947/Angular-Player), [ng-plyr](https://www.npmjs.com/package/ng-plyr)
 
 - 🌱 I’m currently learning **Django**
 

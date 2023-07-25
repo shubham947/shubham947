@@ -85,14 +85,14 @@
 <h3 align="left">Stats:</h3>
 <p align="center">
     <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham947&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham947&show_icons=true&locale=en&layout=compact&theme=radical"
         alt="shubham947" />
 </p>
 
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=shubham947&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=shubham947&show_icons=true&locale=en&theme=radical"
         alt="shubham947" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham947&" alt="shubham947" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham947&theme=radical" alt="shubham947" /></p>

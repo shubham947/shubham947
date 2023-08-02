@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on [Angular Player](https://github.com/shubham947/Angular-Player), [ng-plyr](https://shubham947.github.io/Angular-Player/)
+<a href="https://www.npmjs.com/package/ng-plyr"><img src="https://img.shields.io/npm/v/ng-plyr.svg?style=flat-square" alt="npm"></a>
 
 - 🌱 I’m currently learning **Django**
 
